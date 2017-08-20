@@ -1,0 +1,8 @@
+.background{
+	-fx-background-image: url("../images/blue_classic.jpg");
+}
+
+.label{
+	-fx-font: 21px Arial, Helvetica, sans-serif;
+	-fx-text-fill: royalblue;
+}

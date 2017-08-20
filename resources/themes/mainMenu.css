@@ -1,0 +1,65 @@
+.background{
+	-fx-background-image: url("../images/black_space.jpg");
+}
+
+.button{
+ -fx-text-alignment: center;
+	-fx-padding: 11px 32px;
+	fx-border: solid 1px #004F72;
+ -fx-border-radius: 4px;
+	-fx-font: 21px Arial, Helvetica, sans-serif;
+	-fx-font-weight: bold;
+ -fx-text-fill :#f25b03;
+    -fx-background-color: transparent;
+ -fx-box-shadow:0px 0px 2px #000000, inset 0px 0px 1px #ffffff;
+  }
+
+.button:hover{
+ -fx-padding:11px 32px;
+ -fx-border:solid 1px #004F72;
+ -fx-border-radius: 4px;
+ -fx-font:21px Arial, Helvetica, sans-serif;
+ -fx-font-weight:bold;
+
+ -fx-text-fill :#044f1c;
+	-fx-background-color:#ffffff;
+ -fx-box-shadow: 0px 0px 2px #0cc91c,  inset 0px 0px 1px #ffffff;
+  
+ }
+
+.button:pressed {
+ -fx-padding:11px 32px;
+ -fx-border:solid 1px #004F72;
+ -fx-border-radius: 4px;
+ -fx-font:21px Arial, Helvetica, sans-serif;
+ -fx-font-weight:bold;
+ -fx-color:#f25b03;
+ -fx-background:#000000;
+ -fx-box-shadow:0px 0px 2px #000000, inset 0px 0px 1px #ffffff;
+  
+ }
+
+#my_label{
+    -fx-text-alignment: center;
+    fx-border: solid 1px #004F72;
+    -fx-border-radius: 4px;
+    -fx-font: 19px Arial, Helvetica, sans-serif;
+    -fx-font-weight: bold;
+}
+
+.choice-box {
+    -fx-background-color: transparent;
+    -fx-border-color: #ffffff;
+    -fx-font: 19px Arial, Helvetica, sans-serif;
+    -fx-mark-color: #13ae30;
+}
+
+.choice-box .label{
+    -fx-text-fill: #b6b20a;
+}
+
+.choice-box .context-menu{
+    -fx-background-color: #212a5b;
+}
+
+

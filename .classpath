@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/controlsfx/controlsfx-8.40.10.jar"/>
+	<classpathentry kind="lib" path="lib/controlsfx/openjfx-dialogs-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/controlsfx/fxsampler-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/controlsfx/controlsfx-samples-8.40.10.jar"/>
+	<classpathentry kind="output" path="out/production/CourseWorkOOP"/>
+</classpath>
